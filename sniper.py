@@ -1,5 +1,5 @@
-# client id 805459804059467796
-# permission n. 67584
+# client id X
+# permission n. Y
 
 import discord
 from discord.ext import commands
